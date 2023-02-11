@@ -1,0 +1,1 @@
+/Users/kilian/projects/hackaton_concordium_task_2/hackaton-concordium-task-2/target/concordium/wasm32-unknown-unknown/release/libhackaton_concordium_task_2.rlib: /Users/kilian/projects/hackaton_concordium_task_2/hackaton-concordium-task-2/src/lib.rs
